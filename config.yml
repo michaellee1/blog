@@ -1,4 +1,5 @@
-baseURL: "https://www.michaelyl.com"
+baseURL: ""
+relativeURLs: true
 title: Michael Lee - Blog
 paginate: 5
 theme: papermod
@@ -8,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-GKW5XVVKNS
 
 minify:
     disableXML: true
@@ -40,7 +41,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "📕 Essays"
-        Content: These short pieces are mildly distilled versions of my thoughts.
+        Content: "Essay is used loosely - these short pieces are my mildly distilled thoughts. Email me at michael@biodock.ai"
 
     socialIcons:
         - name: linkedin

@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com"
+baseURL: ""
 title: Michael Lee - Blog
 paginate: 5
 theme: papermod

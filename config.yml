@@ -1,0 +1,53 @@
+baseURL: "https://examplesite.com"
+title: Michael Lee - Blog
+paginate: 5
+theme: papermod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Michael Lee - Blog
+    description: "A personal collection of essays and thoughts"
+    author: Me
+
+    ShowReadingTime: true
+    ShowShareButtons: false
+    comments: true
+    defaultTheme: light
+    disableThemeToggle: false
+    disableSpecial1stPost: false
+
+    assets:
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Michael Lee"
+
+    # home-info mode
+    homeInfoParams:
+        Title: "📕 Essays"
+        Content: These short pieces are mildly distilled versions of my thoughts.
+
+    socialIcons:
+        - name: linkedin
+          url: "https://linkedin.com/in/mike21"
+        - name: github
+          url: "https://github.com/michaellee1"
+
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"

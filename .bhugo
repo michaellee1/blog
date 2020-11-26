@@ -1,0 +1,11 @@
+# Required - substitute your username and Hugo site directory.
+DATABASE="/Users/michaellee/Library/Group Containers/9K33E3U3T4.net.shinyfrog.bear/Application Data/database.sqlite"
+HUGO_DIR=/Users/michaellee/Code/blog
+
+# Optional - defaults listed below
+CONTENT_DIR=content/posts
+IMAGE_DIR=/img/posts
+NOTE_TAG=blogpost
+INTERVAL=1s
+CATEGORIES=true
+TAGS=false

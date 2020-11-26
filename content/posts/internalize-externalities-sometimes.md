@@ -1,6 +1,6 @@
 ---
 title: "Internalize externalities sometimes"
-date: 2020-11-26T12:19:43-05:00
+date: 2020-11-26T12:59:11-05:00
 categories: ["Politics"]
 draft: false
 ---
@@ -12,7 +12,7 @@ For the purposes of this essay, an externality is an uncompensated cost or benef
 If only we could internalize all externalities, our markets would be far more efficient, and capital would be be funneled from harmful to beneficial products.   
 
 ### Roadblocks
-As with many theoretical ideals, there are two enormous problems once this is put in practice.  First and foremost is that the price of an externality is often impossible to accurately determine.  At the end of the day, everything needs to be converted to a dollars and cents figure in order to practically apply any of our tools.  But how do you transmute emotional pain or bureaucratic confusion to 
+As with many theoretical ideals, there are two enormous problems once this is put in practice.  First and foremost is that the price of an externality is often impossible to accurately determine.  At the end of the day, everything needs to be converted to a dollars and cents figure in order to practically apply any of our tools.  But how do you transmute emotional pain or confusion to a monetary value?
 
 The second practical problem is that there are really only 3 viable tools we have to internalize most externalities, and they all carry significant cost.
 

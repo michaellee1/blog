@@ -15,19 +15,28 @@ minify:
     disableXML: true
     minifyOutput: true
 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: All essays
+          url: /all/
+          weight: 5
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Michael Lee - Blog
-    description: "A personal collection of essays and thoughts"
-    author: Me
+    title: Michael Lee - Essays
+    description: "Essay is used loosely - these short pieces are my lightly edited thoughts"
+    author: Michael Lee
 
     ShowReadingTime: true
     ShowShareButtons: false
     comments: true
-    defaultTheme: light
+    defaultTheme: auto
     disableThemeToggle: false
     disableSpecial1stPost: false
-
     assets:
         favicon: "<link / abs url>"
         favicon16x16: "<link / abs url>"
@@ -41,8 +50,19 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "📕 Essays"
-        Content: "Essay is used loosely - these short pieces are my mildly distilled thoughts. Email me at michael@biodock.ai"
+        Content: "Essay is used loosely - these short pieces are my lightly edited thoughts. Email me at michael@biodock.ai"
 
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: ExampleSite
+        # imageUrl: '<img location>'
+        # imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
     socialIcons:
         - name: linkedin
           url: "https://linkedin.com/in/mike21"

@@ -28,7 +28,7 @@ languages:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Michael Lee - Essays
-    description: "Essay is used loosely - these short pieces are my lightly edited thoughts"
+    description: "The word 'essay' is used loosely here - these short pieces are my lightly edited thoughts"
     author: Michael Lee
 
     ShowReadingTime: true

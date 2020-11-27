@@ -1,11 +1,11 @@
 ---
 title: "How we should regulate externalities"
-date: 2020-11-26T18:07:14-05:00
+date: 2020-11-26T21:57:08-05:00
 categories: ["Politics"]
 draft: false
 ---
 
-> Thesis:   Our government should move to a simpler and more methodical process to internalize economic externalities, at least on the federal level, favoring subsidies when possible.  It’s far easier to reward good behavior than cast loophole-filled nets to catch the bad actors.
+> Our government should move to a simpler and more methodical process to internalize economic externalities, at least on the federal level, favoring subsidies when possible.  It’s far easier to reward good behavior than cast loophole-filled nets to catch the bad actors.
 
 One of the few responsibilities of government in the economy should be the internalization of externalities.  
 

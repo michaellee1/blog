@@ -32,7 +32,7 @@ params:
     author: Michael Lee
 
     ShowReadingTime: true
-    ShowShareButtons: false
+    ShowShareButtons: true
     comments: true
     defaultTheme: auto
     disableThemeToggle: false

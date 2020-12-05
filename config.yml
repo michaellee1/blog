@@ -37,20 +37,14 @@ params:
     defaultTheme: auto
     disableThemeToggle: false
     disableSpecial1stPost: false
-    assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
-
+    
     label:
         text: "Michael Lee"
 
     # home-info mode
     homeInfoParams:
         Title: "📕 Essays"
-        Content: "Essay is used loosely - these short pieces are my lightly edited thoughts. Email me at michael@biodock.ai"
+        Content: "The word 'essay' is used loosely here - these short pieces are my lightly edited thoughts. Email me at michael@biodock.ai"
 
     # profile-mode
     profileMode:

@@ -1,12 +1,12 @@
 ---
 title: "Is everyone lying about liking their job?"
-date: 2020-12-05T12:42:51-05:00
+date: 2020-12-06T10:53:10-05:00
 categories: ["Society"]
 draft: false
 ---
 > I’ve observed that people don’t seem to enjoy their jobs as much as they say they do.  You might have noticed the same thing - if you ask someone about their job, it’s almost always a "it’s great!" or "I love it!"  But it doesn’t seem to be true.  You can see this by simple juxtaposition to the people who actually love their jobs - the classic spark behind someone’s eyes when you can’t get them to shut up about what they are working on.
 
-What separates the secretly unhappy worker from the truly passionate?
+So are people lying here?  If they are, why are they lying?  Some disorganized ideas on different things that create this observation follow.
 
 ### Career as a fixture of identity
 A job is truly in a category of its own when it comes to persona and life definition.  Just knowing what someone does gives a small idea into what they’ve done to that point, what they are currently doing, and what they will do: past, present, and future.  That’s probably why it’s often the first question when trying to get to know a person: "What do you do?" or "What’s your job like?" It’s also something that most people have - it’s one of the few statistics that we collect by the people who **don’t** have it (the unemployment rate) rather than those that do.  The identification associated with a job is so powerful that people will define themselves and others by their occupation.  "I’m an ice skater" is certainly something more  than someone who says "I like to ice skate."

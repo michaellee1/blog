@@ -44,7 +44,10 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "📕 Essays"
-        Content: "The word 'essay' is used loosely here - these short pieces are my lightly edited thoughts. Email me at michael@biodock.ai"
+        Content: >
+          The word essay is used loosely - these are my lightly edited thoughts. Email: michael@biodock.ai
+
+          - Are you in debt? Book me [here](https://calendly.com/michael-biodock/zero-cost-debt-consultation) to get my help for free.
 
     # profile-mode
     profileMode:
